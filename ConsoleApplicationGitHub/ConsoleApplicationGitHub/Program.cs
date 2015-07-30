@@ -10,6 +10,8 @@ namespace ConsoleApplicationGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("probando git hub");
+            Console.ReadLine();
         }
     }
 }
