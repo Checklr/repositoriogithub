@@ -1,1 +1,6 @@
 C:\Users\LautaroP\Documents\GitHub\repositoriogithub\ConsoleApplicationGitHub\ConsoleApplicationGitHub\bin\Debug\ConsoleApplicationGitHub.exe.config
+C:\Users\LautaroP\Documents\GitHub\repositoriogithub\ConsoleApplicationGitHub\ConsoleApplicationGitHub\bin\Debug\ConsoleApplicationGitHub.exe
+C:\Users\LautaroP\Documents\GitHub\repositoriogithub\ConsoleApplicationGitHub\ConsoleApplicationGitHub\bin\Debug\ConsoleApplicationGitHub.pdb
+C:\Users\LautaroP\Documents\GitHub\repositoriogithub\ConsoleApplicationGitHub\ConsoleApplicationGitHub\obj\Debug\ConsoleApplicationGitHub.csprojResolveAssemblyReference.cache
+C:\Users\LautaroP\Documents\GitHub\repositoriogithub\ConsoleApplicationGitHub\ConsoleApplicationGitHub\obj\Debug\ConsoleApplicationGitHub.exe
+C:\Users\LautaroP\Documents\GitHub\repositoriogithub\ConsoleApplicationGitHub\ConsoleApplicationGitHub\obj\Debug\ConsoleApplicationGitHub.pdb
