@@ -12,6 +12,8 @@ namespace ConsoleApplicationGitHub
         {
             Console.WriteLine("probando git hub");
             Console.ReadLine();
+            Console.WriteLine("probando otra vez git hub");
+            Console.ReadLine();
         }
     }
 }
